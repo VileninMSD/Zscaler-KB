@@ -5,15 +5,14 @@
 </p><br>
 	<table style="border-collapse: collapse; width: 100%;">
 		<tbody style="vertical-align: top;">
-			<tr style="height: 250px;">
-				<td style="width: 33.3333%;">
+			<tr>
+				<td>
 					<details>
 						<summary>
-							<span style="font-family: verdana, geneva; font-size: 12pt; cursor: pointer;">
+							<span style="font-family: verdana, geneva; font-size: 12pt; cursor: pointer; color: #c00000">
 								<strong>
-								<span style="color: #c00000;"> 
-								Case 1. Connection Error (Basic Troubleshooting)
-								</span>
+								Case 1. Connection Error 
+                                <br>(Basic Troubleshooting)
 								</strong>
 							<br>
 								<img src="/sys_attachment.do?sys_id=e4022227872a8dd0489cfc89cebb358b" width="301" height="214">
@@ -32,11 +31,13 @@
                                 </ol>
 							    <br>
                             </span>
-							<span style="color: black;"><img src="/sys_attachment.do?sys_id=2c51d62b87e28dd0489cfc89cebb35d9" width="529" height="389" /></span>
+							<span style="color: black;"><img src="/sys_attachment.do?sys_id=2c51d62b87e28dd0489cfc89cebb35d9" width="300" height="200" /></span>
 						</p>
                     </details>
                 </td>
-                <td style="width: 33.3333%;">
+            </tr>
+            <tr>
+                <td>
                     <details>
                         <summary>
                             <span style="font-family: verdana, geneva; font-size: 12pt; cursor: pointer; color: #c00000">
@@ -57,12 +58,14 @@
                             </span>
                     </details>
                 </td>
-                <td style="width: 33.3333%;">
+            </tr>
+            <tr>
+                <td>
                     <details>
                         <summary>
                             <span style="font-family: verdana, geneva; font-size: 12pt; cursor: pointer; color: #c00000">
                                 <strong> Case 3. Your session is expired due to idle timeout error</strong><br>
-                                <img src="/sys_attachment.do?sys_id=45902eaf87e68dd0489cfc89cebb35fb" width="427" height="122"/>
+                                <img src="/sys_attachment.do?sys_id=45902eaf87e68dd0489cfc89cebb35fb" width="300" height="187"/>
                             </span>
                         </summary>
                             <span style="font-family: verdana, geneva; font-size: 12pt;"> 
